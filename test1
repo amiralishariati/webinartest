@@ -1,2 +1,6 @@
 --test
+<<<<<<< HEAD
 test
+=======
+it's ok
+>>>>>>> 3c19790299359c14179bcc6ee9353f15decc77fa
